@@ -1,0 +1,2 @@
+# Time-Series-Forcasting-of-Superstore-Sales-data-using-Machine-Learning---ARIMA-and-Prophet-Models
+Time series analysis is a statistical method to extract meaningful statistics and predict future values using previously observed values. It is widely used for non-stationary data like economics, weather, stock price, and retail sales. We have used ARIMA and Prophet models for forecasting Superstore Sales data.
