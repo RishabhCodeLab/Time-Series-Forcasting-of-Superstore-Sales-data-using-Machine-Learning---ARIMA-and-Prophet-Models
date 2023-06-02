@@ -2,7 +2,7 @@
 Time series analysis is a statistical method to extract meaningful statistics and predict future values using previously observed values. It is widely used for non-stationary data like economics, weather, stock price, and retail sales. We have used ARIMA and Prophet models for forecasting Superstore Sales data.
 
 **Data source -**
-[Data](https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls)
+[Superstore](https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls)
 
 **In order to start this project we have to install some static model libraries which are helpful in running Prophet model such as -**
 ```Python 
