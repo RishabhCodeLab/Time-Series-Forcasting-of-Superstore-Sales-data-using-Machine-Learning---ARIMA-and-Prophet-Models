@@ -13,7 +13,7 @@ pip install convertdate
 from prophet import Prophet
 import statsmodels.api as sm
 ```
-**We also use data analysis and data visualization libraries to get good insights of data, such as -**
+**We also use data analysis and data visualization libraries to get good insights into data, such as -**
 ```Python
 %matplotlib inline
 import matplotlib.pyplot as plt
